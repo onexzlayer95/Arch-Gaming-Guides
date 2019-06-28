@@ -15,6 +15,8 @@ sudo systemctl start xboxdrv
 
 Go to Warframe Wine folder: `/home/{username}/.steam/steam/steamapps/compatdata/230410/pfx`
 
-Run in Terminal: `WINEPREFIX=$(pwd) winetricks xact`
+Run in Terminal: `WINEPREFIX=$(pwd) winetcfg`
+
+Go to the Libraries tab and add `xaudio2_7` to the list.
 
 Start the Game!
