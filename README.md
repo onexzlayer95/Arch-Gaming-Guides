@@ -1,6 +1,6 @@
-# Arch/Manjaro Proton Guides
+# Arch Gaming Guides
 
-This repo contains guides for playing Steam games through Arch or Manjaro. These are mostly based on my expierence and may need some tweaking to work on your system. If you have an issue with any of these please let me know!
+This repo contains guides for playing games through Arch. These are mostly based on my expierence and may need some tweaking to work on your system. If you have an issue with any of these please let me know!
 
 ## These instructions apply for all guides here:
 
